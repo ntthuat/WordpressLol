@@ -34,18 +34,27 @@ https://na.leagueoflegends.com/en/featured/preseason-update/8100-8112?build=1012
 . Ngọc Siêu Cấp 4: <relentless_hunter>Thợ Săn Tàn Nhẫn là lựa chọn cuối cùng dành cho Ngọc Siêu Cấp, giúp cho Jarvan trở nên cực kỳ cơ động trong việc truy đuổi tướng địch.
 
 . Ngọc Phụ 1: <taste_of_blood>Vị Máu
+. Ngọc Phụ 1: <Cheap Shot>Phát Bắn Đơn Giản gây ra một lượng sát thương lớn lên kẻ thù khi kết hợp cùng <Charm>Hôn Gió và <Rylai's Crystal Scepter>Trượng Pha Lê Rylai hoặc <Liandry's Torment>Mặt Nạ Đọa Đầy.
 
 =============================================HỆ PHÁP THUẬT=============================================
 . Ngọc Siêu Cấp 1: <arcane_comet>Thiên Thạch Bí Ẩn sẽ là lựa chọn ưu tiên số một cho vị trí này. Ngọc này cho phép sau khi bạn dùng kỹ năng gây sát thương lên tướng địch sẽ thả một viên thiên thạch gây sát thương vào vị trí kẻ đó. Với khả năng làm chậm từ kỹ năng Mưa Đạn (E), kẻ địch chỉ có nước chịu trận dưới làn mưa đạn cùng quả thiên thạch từ xa bay tới mà không cách nào tránh khỏi.
 . Ngọc Siêu Cấp 1: <summon_aery>Triệu Hồi Aery là một ngọc siêu cấp rất linh hoạt, vừa tăng thêm sát thương Soraka khi đi đường thông qua việc đánh thường, kỹ năng Vân Tinh Q và kỹ năng Điểm Phân Cực E, lại vừa có thể tạo lá chắn cho đồng đội khi bạn hồi máu.
 . Ngọc Siêu Cấp 1: Lấy <phase_rush>Tăng Tốc Pha giúp bạn trở thành chú chó cực kỳ nhanh nhẹn. Hầu hết phong cách chơi Nasus là điên cuồng tích Q và trụ đường lâu nhất có thể. Khi việc bị gank là không thể tránh khỏi, hãy đập kẻ địch vờn chó để kích hoạt tăng tốc pha và chạy thẳng về trụ.
+. Ngọc Siêu Cấp 1: Lấy <phase_rush>Tăng Tốc Pha giúp bạn cực kỳ nhanh nhẹn sau mỗi lần xả chiêu. Khi việc bị gank là không thể tránh khỏi, hãy tung chiêu để kích hoạt tăng tốc pha và chạy thẳng về trụ một cách an toàn.
+. Ngọc Siêu Cấp 1: <summon_aery>Triệu Hồi Aery là một ngọc siêu cấp rất linh hoạt, vừa tăng thêm sát thương Ahri khi đi đường thông qua việc đánh thường và Quả Cầu Ma Thuật (Q). Đặc biệt <summon_aery>Triệu Hồi Aery kết hợp cực kỳ tốt với trang bị <luden_echo>Vọng Âm của Luden, giúp Ahri poke cấu máu cực kỳ dễ dàng.
 
 . Ngọc Siêu Cấp 2: <manaflow_band>Dải Băng Năng Lượng là lựa chọn tuyệt vời để giải quyết vấn đề không đủ mana xả chiêu.
+. Ngọc Siêu Cấp 2: <manaflow_band>Dải Băng Năng Lượng là lựa chọn tuyệt vời để giải quyết vấn đề không đủ mana xả chiêu trong giai đoạn đầu game của Ryze.
 . Ngọc Siêu Cấp 2: <the_ultimate_hat>Mũ Tối Thượng giúp giảm thời gian những lần Azir tạo đột biến với chiêu cuối của mình.
+. Ngọc Siêu Cấp 2: <the_ultimate_hat>Mũ Tối Thượng giúp giảm thời gian những lần Ahri tạo đột biến với chiêu cuối của mình. Và chiêu cuối giảm thời gian hồi chiêu lên đến 35% nếu trong một trận đấu Ahri sử dụng Phi Hồ (R) 5 lần.
 
 . Ngọc Siêu Cấp 3: <celerity>Mau Lẹ là một điểm thích hợp với Miss Fortune. Do vị tướng này có tốc độ di chuyển rất cao cộng thêm kỹ năng Sải Bước (W), trong một số tình huống bạn có thể dễ dàng trêu ngươi đối phương mà không sợ bất kỳ nguy hiểm gì.
+. Ngọc Siêu Cấp 3: <celerity>Mau Lẹ là một điểm thích hợp với Ryze, kết hợp cùng <phase_rush>Tăng Tốc Pha khiến Ryze sau khi xả chiêu có thể rút lui một cách an toàn.
 . Ngọc Siêu Cấp 3: <absolute_focus>Tập Trung Tuyệt Đối là sự lựa chọn cực kỳ hợp lý dành cho Azir. Bản chất là vị tướng canh khoảng cách từ xa để điều khiển lính cát tấn công đối phương, nên không khó để vị tướng này giữ lượng máu của mình trên mức an toàn.
 . Ngọc Siêu Cấp 3: <transcendence>Thăng Tiến Sức Mạnh là lựa chọn cực kỳ hợp lý cho Nasus ở vị trí này. <>Thăng Tiến Sức Mạnh giúp Nasus tích Q nhanh hơn.
+. Ngọc Siêu Cấp 3: <Transcendence>Thăng Tiến Sức Mạnh cho bạn 10% giảm thời gian hồi chiêu, kết hợp cùng <the_ultimate_hat>Mũ Tối Thượng sẽ tăng lên 30%. Vì thế Phi Hồ (R) ở cuối trận có 45% giảm thời gian hồi chiêu.
+
+. Ngọc Siêu Cấp 4: <Gathering Storm>Cuồng Phong Tích Tụ thực sự biến Ahri thành con quái vật săn người vào cuối game. Bảng dưới đây là chỉ số sức mạnh AP theo thời gian:
 
 . Ngọc Phụ 1: <scorch>Thiêu Rụi giúp bạn trao đổi chiêu thức khi đi đường một cách đầy hiệu quả.
 
@@ -64,6 +73,7 @@ https://na.leagueoflegends.com/en/featured/preseason-update/8100-8112?build=1012
 
 . Ngọc Phụ 1: <perfect_timing>Thời Điểm Hoàn Hảo giúp Azir có kế hoạch back up trong những lần sẩy chân khi tung chiêu cuối quá đà.
 . Ngọc Phụ 1: <hextech_flashtraption>Tốc Biến Ma Thuật được sử dụng để mở khóa tiềm năng gank bất ngờ.
+. Ngọc Phụ 1: <Minion Dematerializer>Phản Vật Chất Hóa cho bạn khởi đầu trận với 6 máy Hút Lính tiêu diệt và hấp thụ lính ngay lập tức. Hấp thụ 1 lính tăng vĩnh viễn 4% sát thương của bạn lên loại lính đó, cộng thêm 1% với mỗi loại lính đó bị hấp thụ.
 
 . Ngọc Phụ 2: <cosmic_insight>Thấu Thị Vũ Trụ cho phép bạn có thêm 5% giảm thời gian hồi chiêu tăng cường khả năng cấu máu đối phương.
 . Ngọc Phụ 2: <magical_footwear>Bước Chân Màu Nhiệm giúp Azir có thêm một đôi giày hàng hiệu.

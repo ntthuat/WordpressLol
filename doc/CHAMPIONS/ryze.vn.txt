@@ -1,0 +1,46 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <Sapphire Crystal> Lam Ngọc
+_ <refillable_potion>Thuốc Tái Sử Dụng
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <ionian_boots_of_lucidity>Giày Khai Sáng Ionia
+_ <seraph_embrace>Quyền Trượng Đại Thiên Sứ
+_ <rod_of_ages>Trượng Trường Sinh
+_ <rabadon_deathcap>Mũ Phù Thủy
+_ <void_staff>Trượng Hư Vô
+_ <liandry_torment>Mặt Nạ Đọa Đầy Liandry
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <ninja_tabi>Giày Ninja
+_ <mercury_treads>Giày Thủy Ngân
+_ <banshee_veil>Dây Chuyền Chữ Thập
+_ <frozen_heart>Tim Băng
+_ <Abyssal Mask>Mặt Nạ Vực Thẳm
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Pháp Thuật
+. Ngọc Siêu Cấp 1: Lấy <phase_rush>Tăng Tốc Pha giúp bạn cực kỳ nhanh nhẹn sau mỗi lần xả chiêu. Khi việc bị gank là không thể tránh khỏi, hãy tung chiêu để kích hoạt tăng tốc pha và chạy thẳng về trụ một cách an toàn.
+. Ngọc Siêu Cấp 2: <manaflow_band>Dải Băng Năng Lượng là lựa chọn tuyệt vời để giải quyết vấn đề không đủ mana xả chiêu trong giai đoạn đầu game của Ryze.
+. Ngọc Siêu Cấp 3: <celerity>Mau Lẹ là một điểm thích hợp với Ryze, kết hợp cùng <phase_rush>Tăng Tốc Pha khiến Ryze sau khi xả chiêu có thể rút lui một cách an toàn.
+. Ngọc Siêu Cấp 4: 
++ Nhánh Ngọc Phụ: Hệ Cảm Hứng
+. Ngọc Phụ 1: <Minion Dematerializer>Phản Vật Chất Hóa cho bạn khởi đầu trận với 6 máy Hút Lính tiêu diệt và hấp thụ lính ngay lập tức. Hấp thụ 1 lính tăng vĩnh viễn 4% sát thương của bạn lên loại lính đó, cộng thêm 1% với mỗi loại lính đó bị hấp thụ.
+. Ngọc Phụ 2: <cosmic_insight>Thấu Thị Vũ Trụ cho phép bạn có thêm 5% giảm thời gian hồi chiêu tăng cường khả năng cấu máu đối phương.
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Ryze. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<Ghost> Tốc Hành là lựa chọn cực kỳ hợp lý dành cho Ryze tiếp theo. Còn gì tuyệt vời hơn khi <Ghost> Tốc Hành giúp bạn có thể chạy xuyên vật thể đồng thời nhận thêm 27% Tốc độ Di chuyển trong 10 giây.
+
+Tùy chọn 1:
+

@@ -3,6 +3,7 @@ https://lienminh.garena.vn/game-info/items
 https://lmht.kynanggame.com/project/bo-trang-bi/
 
 + Trang Bị Khởi Đầu:
+_ <refillable_potion>Thuốc Tái Sử Dụng
 _ <doran_shield>Khiên Doran
 _ <health_potion>Bình Máu
 _ <corrupting_potion>Bình Thuốc Biến Dị
@@ -12,7 +13,6 @@ _ <doran_ring>Nhẫn Doran
 _ <boots_of_speed>Giày Thường
 _ <spellthief_edge>Lưỡi Gươm Đoạt Thuật
 _ <total_biscuit_of_rejuvenation>Bánh Qui
-_ <refillable_potion>Thuốc Tái Sử Dụng
 _ <control_ward>Mắt Kiểm Soát
 _ <hunter_talisman>Bùa Thợ Săn
 _ <faerie_charm>Bùa Tiên
@@ -69,9 +69,14 @@ _ <seraph_embrace>Quyền Trượng Đại Thiên Sứ
 _ <righteous_glory>Vinh Quang Chân Chính
 _ <ravenous_hydra>Rìu Mãng Xà
 _ <youmuu_ghostblade>Kiếm Ma Youmuu
+_ <luden_echo>Vọng Âm của Luden
+_ <Rylai's Crystal Scepter>Trượng Pha Lê Rylai
+_ <Liandry's Torment>Mặt Nạ Đọa Đầy
+_ <Mejai's Soulstealer>Sách Chiêu Hồn Mejai
 
 * Phép Bổ Trợ:
 <flash>Tốc Biến là lựa chọn tối cần thiết dành cho Gnar. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
 <teleport>Dịch Chuyển là phép bổ trợ bắt buộc dành cho Gnar vị trí đường trên.
 <exhaust>Kiệt Sức giúp bạn trong các pha bảo vệ AD, cũng như làm suy yếu kẻ địch trong những pha rừng ra gank cực kỳ hiêu quả.
+<Ignite>Thiêu Đốt giúp bạn tự tin hơn trong việc trao đổi chiêu thức, ăn mạng kẻ thù và hạn chế đối phương hồi máu khi giao tranh.
 

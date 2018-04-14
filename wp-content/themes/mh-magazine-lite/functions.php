@@ -146,4 +146,6 @@ if (is_plugin_active('woocommerce/woocommerce.php')) {
 	require_once('woocommerce/mh-custom-woocommerce.php');
 }
 
+require get_template_directory() . '/inc/shortcodes.php';
+
 ?>

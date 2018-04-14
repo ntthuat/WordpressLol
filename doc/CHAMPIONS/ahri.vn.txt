@@ -1,0 +1,50 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_ring>Nhẫn Doran
+_ <health_potion{2}>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <luden_echo>Vọng Âm của Luden
+_ <Rylai's Crystal Scepter>Trượng Pha Lê Rylai
+_ <Liandry's Torment>Mặt Nạ Đọa Đầy
+_ <rabadon_deathcap>Mũ Phù Thủy
+_ <sorcerer_shoes> Giày Phù Thủy
+_ <void_staff>Trượng Hư Vô
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <banshee_veil>Dây Chuyền Chữ Thập
+_ <zhonya_hourglass>Đồng Hồ Cát
+_ <Mejai's Soulstealer>Sách Chiêu Hồn Mejai
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Pháp Thuật
+. Ngọc Siêu Cấp 1: <summon_aery>Triệu Hồi Aery là một ngọc siêu cấp rất linh hoạt, vừa tăng thêm sát thương Ahri khi đi đường thông qua việc đánh thường và Quả Cầu Ma Thuật (Q). Đặc biệt <summon_aery>Triệu Hồi Aery kết hợp cực kỳ tốt với trang bị <luden_echo>Vọng Âm của Luden, giúp Ahri poke cấu máu cực kỳ dễ dàng.
+. Ngọc Siêu Cấp 2: <the_ultimate_hat>Mũ Tối Thượng giúp giảm thời gian những lần Ahri tạo đột biến với chiêu cuối của mình. Và chiêu cuối giảm thời gian hồi chiêu lên đến 35% nếu trong một trận đấu Ahri sử dụng Phi Hồ (R) 5 lần.
+. Ngọc Siêu Cấp 3: <Transcendence>Thăng Tiến Sức Mạnh cho bạn 10% giảm thời gian hồi chiêu, kết hợp cùng <the_ultimate_hat>Mũ Tối Thượng sẽ tăng lên 30%. Vì thế Phi Hồ (R) ở cuối trận có 45% giảm thời gian hồi chiêu.
+. Ngọc Siêu Cấp 4: <Gathering Storm>Cuồng Phong Tích Tụ thực sự biến Ahri thành con quái vật săn người vào cuối game. Bảng dưới đây là chỉ số sức mạnh AP theo thời gian:
+ 10 phút - 8 AP
+ 20 phút - 24 AP
+ 30 phút - 48 AP
+ 40 phút - 80 AP
+ 50 phút - 120 AP
+ 60 phút - 168 AP
+... phút - ... AP
+
++ Nhánh Ngọc Phụ: Hệ Áp Đảo
+. Ngọc Phụ 1: <Cheap Shot>Phát Bắn Đơn Giản gây ra một lượng sát thương lớn lên kẻ thù khi kết hợp cùng <Charm>Hôn Gió và <Rylai's Crystal Scepter>Trượng Pha Lê Rylai hoặc <Liandry's Torment>Mặt Nạ Đọa Đầy
+. Ngọc Phụ 2: <eyeball_collection>Thu Thập Chiến Tích là lựa chọn tiếp theo dành cho Ahri. Mỗi khi tham gia hạ gục tướng địch hoặc mắt, bạn lại bổ sung một chút vào <eyeball_collection>Thu Thập Chiến Tích, nó cho bạn thêm nhiều sát thương dồn hơn, và khiến độ ma quái của Ahri càng vượt trội hơn.
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Ahri. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<Ignite>Thiêu Đốt giúp bạn tự tin hơn trong việc trao đổi chiêu thức, ăn mạng kẻ thù và hạn chế đối phương hồi máu khi giao tranh.
+

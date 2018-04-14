@@ -1,0 +1,14 @@
+* prefer: https://lienminh.garena.vn/game-info/summoner/spells
+
+* title: Tốc Biến
+
+* content:
+Cấp độ anh hùng: 8
+
+Tầm hoạt động: 425
+
+Thời gian hồi: 300 giây
+
+Chế độ chơi: Truyền Thống, Cướp Cờ, Hướng Dẫn, Vực Gió Hú, Thăng Hoa
+
+Diễn giải: Dịch chuyển tướng của bạn đi một khoảng cách nhỏ hướng đến vị trí con trỏ.

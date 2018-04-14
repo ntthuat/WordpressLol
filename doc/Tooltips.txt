@@ -1,3 +1,7 @@
 Prefer:
 https://www.youtube.com/watch?v=1CDLTCkbJkU
 https://www.youtube.com/watch?v=Fg7-PVkxaJY
+
+1. Create shortcodes.php to directory 'inc'
+2. Add below line to functions.php:
+require get_template_directory() . '/inc/shortcodes.php';
