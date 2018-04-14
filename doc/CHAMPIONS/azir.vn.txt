@@ -1,0 +1,46 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_ring>Nhẫn Doran
+_ <health_potion>Bình Máu
+
++ Trang Bị Khởi Đầu Nếu Tự Tin
+_ <doran_ring>Nhẫn Doran
+_ <refillable_potion>Thuốc Tái Sử Dụng
+_ <control_ward>Mắt Kiểm Soát
+
++ Trang Bị Cuối Cùng:
+_ <sorcerer_shoes> Giày Phù Thủy
+_ <nashor_tooth>Năng Nashor
+_ <rylai_crystal_scepter>Trượng Pha Lê Rylai
+_ <zhonya_hourglass>Đồng Hồ Cát
+_ <rabadon_deathcap> Mũ Phù Thủy
+_ <void_staff>Trượng Hư Vô
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <liandry_torment>Mặt Nạ Đọa Đầy Liandry
+_ <banshee_veil>Dây Chuyền Chữ Thập
+_ <rod_of_ages>Trượng Trường Sinh
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Pháp Thuật
+. Ngọc Siêu Cấp 1: <arcane_comet>Thiên Thạch Bí Ẩn sẽ là lựa chọn ưu tiên số một cho vị trí này. Ngọc này cho phép sau khi bạn dùng kỹ năng gây sát thương lên tướng địch sẽ thả một viên thiên thạch gây sát thương vào vị trí kẻ đó. Với ngọc này khả năng trao đổi chiêu thức và cấu máu của Azir càng trở nên mạnh mẽ hơn.
+. Ngọc Siêu Cấp 2: <the_ultimate_hat>Mũ Tối Thượng giúp giảm thời gian những lần Azir tạo đột biến với chiêu cuối của mình.
+. Ngọc Siêu Cấp 3: <absolute_focus>Tập Trung Tuyệt Đối là sự lựa chọn cực kỳ hợp lý dành cho Azir. Bản chất là vị tướng canh khoảng cách từ xa để điều khiển lính cát tấn công đối phương, nên không khó để vị tướng này giữ lượng máu của mình trên mức an toàn.
+. Ngọc Siêu Cấp 4: <scorch>Thiêu Rụi giúp bạn trao đổi chiêu thức khi đi đường một cách đầy hiệu quả.
++ Nhánh Ngọc Phụ: Hệ Cảm Hứng
+. Ngọc Phụ 1: <perfect_timing>Thời Điểm Hoàn Hảo giúp Azir có kế hoạch back up trong những lần sẩy chân khi tung chiêu cuối quá đà.
+. Ngọc Phụ 2: <magical_footwear>Bước Chân Màu Nhiệm giúp Azir có thêm một đôi giày hàng hiệu.
+
+* Phép Bổ Trợ:
+
+Tùy chọn 1:
+

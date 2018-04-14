@@ -1,0 +1,41 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <spellthief_edge>Lưỡi Gươm Đoạt Thuật
+_ <faerie_charm>Bùa Tiên
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <eye_of_ascension>Mắt Ốc Đảo
+_ <ionian_boots_of_lucidity>Giày Khai Sáng Ionia
+_ <athene_unholy_grail>Cốc Quỷ
+_ <ardent_censer>Lư Hương Sôi Sục
+_ <rabadon_deathcap>Mũ Phù Thủy
+_ <seraph_embrace>Quyền Trượng Đại Thiên Sứ
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <eye_of_the_watchers>Mắt Giám Sát
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Pháp Thuật
+. Ngọc Siêu Cấp 1: <summon_aery>Triệu Hồi Aery là một ngọc siêu cấp rất linh hoạt, vừa tăng thêm sát thương Soraka khi đi đường thông qua việc đánh thường, kỹ năng Vân Tinh Q và kỹ năng Điểm Phân Cực E, lại vừa có thể tạo lá chắn cho đồng đội khi bạn hồi máu.
+. Ngọc Siêu Cấp 2: <manaflow_band>Dải Băng Năng Lượng là lựa chọn tuyệt vời để giải quyết vấn đề không đủ mana xả chiêu.
+. Ngọc Siêu Cấp 3: <scorch>Thiêu Rụi giúp bạn trao đổi chiêu thức khi đi đường một cách đầy hiệu quả. Vì nếu Q trúng, bạn sẽ được hồi lại máu, còn đối thủ chỉ biết khóc mà biến về mà thôi.
+. Ngọc Siêu Cấp 4: <celerity>Mau Lẹ kết hợp nội tại Cứu Rỗi giúp xe cứu thương Soraka đến với đồng đội nhanh hơn.
+
++ Nhánh Ngọc Phụ: 
+. Ngọc Phụ 1: <font_of_life>Suối Ngọn Sinh Mệnh sẽ hồi máu cho đồng minh khi bạn cùng trao đổi chiêu thức ở đường. Nếu bạn có <ardent_censer>Lư Hương Sôi Sục họ cũng sẽ nhận được hiệu ứng.
+. Ngọc Phụ 2: <revitalize>Tiếp Sức là sự lựa chọn cuối cùng, cực kỳ hữu ích để biến Soraka thực sự trở thành xe cứu thương cực kỳ dồi dào nguồn máu tiếp tế.
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Soraka. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<exhaust>Kiệt Sức giúp bạn trong các pha bảo vệ AD, cũng như làm suy yếu kẻ địch trong những pha rừng ra gank cực kỳ hiêu quả.
+

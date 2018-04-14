@@ -1,0 +1,46 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+_ <spellthief_edge>Lưỡi Gươm Đoạt Thuật
+_ <total_biscuit_of_rejuvenation>Bánh Qui
+
++ Trang Bị Cuối Cùng:
+_ <eye_of_the_watchers>Mắt Giám Sát
+_ <ionian_boots_of_lucidity>Giày Khai Sáng Ionia
+_ <redemption>Dây Chuyền Chuộc Tội
+_ <frozen_heart>Tim Băng
+_ <banshee_veil>Dây Chuyền Chữ Thập
+_ <ZzRot_Portal>Thông Đạo Zz'Rot
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <banner_of_command>Cờ Lệnh Hiệu Triệu
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <knight_vow>Lời Thề Hiệp Sĩ
+_ <randuin_omen>Khiên Băng Randuin
+_ <guardian_angel>Giáp Thiên Thần
+_ <iceborn_gauntlet>Găng Tay Băng Giá
+_ <thornmail>Giáp Gai
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Kiên Định
+. Ngọc Siêu Cấp 1: <guardian>Hộ Vệ khiến kỹ năng bạn dùng lên đồng minh cho lá chắn, biến <>Điện An Lạc thành công cự phòng ngự trong giao tranh tốt hơn.
+. Ngọc Siêu Cấp 2: <font_of_life>Suối Ngọn Sinh Mệnh sẽ hồi máu cho đồng minh khi bạn cùng trao đổi chiêu thức ở đường. Nếu bạn có <ardent_censer>Lư Hương Sôi Sục họ cũng sẽ nhận được hiệu ứng.
+. Ngọc Siêu Cấp 3: <iron_skin>Mình Đồng Da Sắt giúp bạn tăng thêm giáp mỗi khi được hồi máu.
+. Ngọc Siêu Cấp 4: <revitalize>Tiếp Sức giúp cho việc hồi máu càng trở nên mạnh mẽ và dồi dào hơn bao giờ hết. Quá tuyệt vời.
++ Nhánh Ngọc Phụ: Hệ Áp Đảo
+. Ngọc Phụ 1: <taste_of_blood>Vị Máu khiến mọi đòi đánh thường của bạn kích hoạt <iron_skin>Mình Đồng Da Sắt.
+. Ngọc Phụ 2: <zombie_ward>Mắt Thây Ma là lựa chọn hiệu quả hơn <eyeball_collection> Thu Thập Chiến Tích. Nguyên nhân là do <eyeball_collection> Thu Thập Chiến Tích đã bị giảm sức mạnh gần đây, và ngọc này thường chỉ phát huy được tác dụng vào cuối game.
+
+* Phép Bổ Trợ:
+
+Tùy chọn 1:
+

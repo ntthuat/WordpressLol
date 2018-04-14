@@ -1,0 +1,42 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <hunter_talisman>Bùa Thợ Săn
+_ <refillable_potion>Thuốc Tái Sử Dụng
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
+
++ Trang Bị Cuối Cùng:
+_ <stalker_blade_runic_echoes> Gươm Truy Tung - Phù Phép Thần Vọng
+_ <rabadon_deathcap>Mũ Phù Thủy
+_ <morellonomicon>Quỷ Thư Morello
+_ <void_staff>Trượng Hư Vô
+_ <lich_bane>Song Kiếm Tai Ương
+_ <sorcerer_shoes> Giày Phù Thủy
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <zhonya_hourglass>Đồng Hồ Cát
+_ <banshee_veil>Dây Chuyền Chữ Thập
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Áp Đảo
+. Ngọc Siêu Cấp 1: <dark_harvest>Thu Thập Hắc Ám là lựa chọn đầu tiên dành cho Evelynn. Bạn sẽ dành vài đợt rừng đầu tiên để hạ gục nhiều quái to nhất có thể để cộng dồn <dark_harvest>Thu Thập Hắc Ám.
+. Ngọc Siêu Cấp 2: <sudden_impact>Tác Động Bất Chợt là lựa chọn cực kỳ hợp lý, nó mang lại cho Evelynn một lượng sức mạnh bùng nổ khi thoát khỏi tàn hình. Lúc đạt được cấp 6 là thời điểm để bắt đầu "tích" mạng kẻ địch.
+. Ngọc Siêu Cấp 3: <eyeball_collection>Thu Thập Chiến Tích là lựa chọn tiếp theo dành cho Evelynn. Mỗi khi tham gia hạ gục tướng địch hoặc mắt, bạn lại bổ sung một chút vào <eyeball_collection>Thu Thập Chiến Tích, nó cho bạn thêm nhiều sát thương dồn hơn, và khiến độ ma quái của bạn càng vượt trội hơn.
+. Ngọc Siêu Cấp 4: <relentless_hunter>Thợ Săn Tàn Nhẫn là lựa chọn cuối cùng dành cho Ngọc Siêu Cấp, giúp cho Evelynn trở nên cực kỳ cơ động trong việc truy đuổi tướng địch.
++ Nhánh Ngọc Phụ: Hệ Cảm Hứng
+. Ngọc Phụ 1: <hextech_flashtraption>Tốc Biến Ma Thuật được sử dụng để mở khóa tiềm năng gank bất ngờ.
+. Ngọc Phụ 2: <magical_footwear>Bước Chân Màu Nhiệm giúp Evelynn có thêm một đôi giày hàng hiệu, kẻ địch chạy đâu cho thoát.
+
+* Phép Bổ Trợ:
+
+Tùy chọn 1:
+

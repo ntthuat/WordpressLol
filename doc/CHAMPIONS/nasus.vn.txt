@@ -1,0 +1,42 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_shield>Khiên Doran
+_ <health_potion>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <trinity_force>Tam Họp Kiếm
+_ <mercury_treads>Giày Thủy Ngân
+_ <spirit_visage>Giáp Tâm Linh
+_ <righteous_glory>Vinh Quang Chân Chính
+_ <thornmail>Giáp Gai
+_ <dead_man_plate>Giáp Liệt Sĩ
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <adaptive_helm>Mũ Thích Nghi
+_ <randuin_omen>Khiên Băng Randuin
+_<ninja_tabi>Giày Ninja
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Pháp Thuật
+. Ngọc Siêu Cấp 1: Lấy <phase_rush>Tăng Tốc Pha giúp bạn trở thành chú chó cực kỳ nhanh nhẹn. Hầu hết phong cách chơi Nasus là điên cuồng tích Q và trụ đường lâu nhất có thể. Khi việc bị gank là không thể tránh khỏi, hãy đập kẻ địch vờn chó để kích hoạt tăng tốc pha và chạy thẳng về trụ.
+. Ngọc Siêu Cấp 2: <manaflow_band>Dải Băng Năng Lượng là lựa chọn tuyệt vời để giải quyết vấn đề không đủ mana đập Q.
+. Ngọc Siêu Cấp 3: <transcendence>Thăng Tiến Sức Mạnh là lựa chọn cực kỳ hợp lý cho Nasus ở vị trí này. <>Thăng Tiến Sức Mạnh giúp Nasus tích Q nhanh hơn.
+. Ngọc Siêu Cấp 4: <gathering_storm>Cuồng Phong Tích Tụ giúp Nasus về cuối trận trở thành một con quái vật thật sự.
++ Nhánh Ngọc Phụ: Hệ Kiên Định
+. Ngọc Phụ 1: <second_wind>Ngọn Gió Thứ Hai giúp tăng tốc mỗi khi đánh dấu vào kẻ địch.
+. Ngọc Phụ 2: <conditioning>Kiểm Soát Điều Kiện kết hợp cực tốt với mọi chỉ số phòng ngự mà bạn có. Ai là chú cún trâu nhất nữa nào?
+
+* Phép Bổ Trợ:
+
+Tùy chọn 1:
+

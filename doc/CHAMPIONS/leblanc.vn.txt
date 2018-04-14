@@ -1,0 +1,23 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Chọn Hệ Áp Đảo
+. Ngọc Siêu Cấp 1: <electrocute> Sốc Điện là lựa chọn tuyệt vời nhất ở đây. <electrocute> Sốc Điện cho phép bạn gây thêm một sát thương thích ứng cực lớn lên kẻ thù sau 3 đòn đánh hoặc kỹ năng duy nhất.
+. Ngọc Siêu Cấp 2: <sudden_impact> Tác Động Bất Chợt là lựa chọn cực kỳ hợp lý, nó mang lại cho Leblanc một lượng sức mạnh bùng nổ khi sử dụng kỹ năng <distortion> Biến Ảnh (W). <taste_of_blood> Vị Máu có thể kết hợp cùng <hextech_gunblade> Súng Hextech khá tốt nhưng chắc chắn không hiệu quả bằng <sudden_impact> Tác Động Bất Chợt.
+. Ngọc Siêu Cấp 3: <zombie_ward> Mắt Thây Ma là lựa chọn hiệu quả hơn <eyeball_collection> Thu Thập Chiến Tích. Nguyên nhân là do <eyeball_collection> Thu Thập Chiến Tích đã bị giảm sức mạnh gần đây, và ngọc này thường chỉ phát huy được tác dụng vào cuối game.
+. Ngọc Siêu Cấp 4: <ravenous_hunter> Thợ Săn Tham Lam là lựa chọn cuối cùng. Lợi ích của ngọc này là khi tích đủ 5 stack kết hợp cùng <hextech_gunblade> Súng Hextech sẽ gây ra hàng tá sát thương lên kẻ thù.
++ Nhánh Ngọc Phụ: 
+. Ngọc Phụ 1: <the_ultimate_hat> Mũ Tối Thượng là lựa chọn cực kỳ hợp lý dành cho Leblanc. Leblanc càng sử dụng nhiều chiêu cuối thì thời gian hồi chiêu sẽ càng giảm.
+. Ngọc Phụ 1: ...
+. Ngọc Phụ 2: <coup_de_grace> Nhát Chém Ân Huệ sẽ sự lựa chọn còn lại cực kỳ chuẩn xác. Với lượng sát thương khủng bạn sẽ khiến 1 hoặc nhiều đối thủ lên bảng đếm số rất dễ dàng.
+
+* Phép Bổ Trợ:
+<flash> Tốc Biến là lựa chọn tối cần thiết dành cho Leblanc. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<teleport> Dịch Chuyển là phép bổ trợ cực kỳ hữu ích trong mùa giải này. Dịch chuyển cho phép bạn hỗ trợ đồng đội một cách nhanh chóng khi cần thiết hoặc quay trở lại đường cực kỳ nhanh chóng.
+Tùy chọn 1:
+<ignite>Thiêu Đốt là lựa chọn bắt buộc dành cho Leblanc trong mùa 6. Tuy nhiên khi meta đường giữa ưu tiên việc hỗ trợ đồng đội 2 cánh nhiều hơn, và đồng thời sức mạnh của Leblanc đã bị giảm xuống nên lựa chọn <ignite> Thiêu Đốt không còn là ưu tiên hàng đầu.

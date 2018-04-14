@@ -1,0 +1,52 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer: https://www.mobafire.com/league-of-legends/build/yasuo-way-of-the-wanderer-season-8-411622
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_shield>Khiên Doran
+_ <health_potion>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
++ Trang Bị Khởi Đầu Nếu Tự Tin
+_ <doran_blade>Kiếm Doran
+_ <health_potion>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
++ Trang Bị Cuối Cùng:
+_<phantom_dancer>Ma Vũ Song Kiếm
+_<frozen_mallet>Búa Băng
+_<infinity_edge>Vô Cực Kiếm
+_<blade_of_the_ruined_king>Gươm Của Vua Vô Danh
+_<ninja_tabi>Giày Ninja
+_<guardian_angel>Giáp Thiên Thần
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <the_black_cleaver>Rìu Đen
+_ <sterak_gage>Móng Vuốt Sterak
+_ <mortal_reminder>Lời Nhắc Tử Vong
+_ <mercurial_scimitar>Đao Thủy Ngân
+_ <lord_dominik_regards>Nỏ Thần Dominik
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <the_bloodthirster>Huyết Kiếm
+_ <maw_of_malmortius>Chùy Gai Malmortius
+_ <spirit_visage>Giáp Tâm Linh
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Chuẩn Xác
+. Ngọc Siêu Cấp 1: Khởi đầu với <lethal_tempo>Nhịp Độ Chết Người. Sau 1,5 giây sau khi gây sát thương lên tướng địch, bạn có thể nhận thêm từ 30-80% tốc độ đánh tùy theo cấp độ. Và nếu tấn cống một tướng, hiệu ứng này sẽ kéo dài lên đến 6 giây. Chưa kể, <lethal_tempo>Nhịp Độ Chết Người còn cho phép bạn tạm thời vượt qua giới hạn tốc độ đánh cùng với tỉ lệ chí mạng cực lớn. Yasuo thực sự có thể trở thành cơn cuồng phong quét sạch mọi đối thủ.
+. Ngọc Siêu Cấp 2: <triumph> Đắc Thắng là một lựa chọn không thể hoàn hảo hơn cho vị trí này. Bản chất Yasuo là một vị tướng luôn phải lao vào, áp sát đối thủ cũng như tham gia các giao tranh lớn. <triumph> Đắc Thắng giúp Yasuo có thể tồn tại lâu dài cho những tình huống đó.
+. Ngọc Siêu Cấp 3: <legend_alacrity> Huyền Thoại Tốc Độ Đánh là sự lựa chọn tốt nhất để kết hợp cùng <>Nhịp Độ Chết Người. 
+. Ngọc Siêu Cấp 4: <coup_de_grace> Nhát Chém Ân Huệ sẽ sự lựa chọn còn lại cực kỳ chuẩn xác. Với lượng sát thương khủng bạn sẽ khiến 1 hoặc nhiều đối thủ lên bảng đếm số rất dễ dàng. Chuẩn bị một lượng đồ và thu thập thêm những điểm hạ gục ngay thôi.
++ Nhánh Ngọc Phụ: Hệ Áp Đảo
+. Ngọc Phụ 1: <sudden_impact>Tác Động Bất Chợt là lựa chọn cực kỳ hợp lý. Với khả năng lướt qua các đơn vị để quét kiếm, một lượng sát lực được tăng thêm tới từ <sudden_impact>Tác Động Bất Chợt sẽ giúp Yasuo đáng sợ hơn bao giờ hết.
+. Ngọc Phụ 2: <eyeball_collection>Thu Thập Chiến Tích là lựa chọn ưu tiên cuối cùng. <eyeball_collection>Thu Thập Chiến Tích sẽ giúp bạn nhận được một chút sức mạnh công kích mỗi khi tham gia hạ gục tướng địch. Khá mạnh đấy nhé.
+
+* Phép Bổ Trợ:
+<flash> Tốc Biến là lựa chọn tối cần thiết dành cho Yasuo. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<ignite>Thiêu Đốt là lựa chọn khả dĩ nếu bạn không cần thêm bất kỳ lựa chọn phòng thủ nào nữa. <ignite>Thiêu Đốt cực kỳ lợi thế dành cho Yasuo khi muốn chơi áp sát và khô máu, đồng thời kết hợp cùng <triumph>Đắc Thắng sẽ giúp bạn có cơ hội sống dai hơn.
+
+Tùy chọn 1:
+<teleport> Dịch Chuyển là phép bổ trợ cực kỳ hữu ích trong mùa giải này. Dịch chuyển cho phép bạn hỗ trợ đồng đội một cách nhanh chóng khi cần thiết hoặc quay trở lại đường cực kỳ nhanh chóng.

@@ -1,0 +1,45 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer: 
+
+Irelia - Vũ Kiếm Sư
+
+tag: cách chơi irelia
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <corrupting_potion>Bình Thuốc Biến Dị
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <trinity_force>Tam Họp Kiếm
+_ <guardian_angel>Giáp Thiên Thần
+_ <sterak_gage>Móng Vuốt Sterak
+_ <titanic_hydra>Rìu Đại Mãng Xà
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <guardian_angel>Giáp Thiên Thần
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <spirit_visage>Giáp Tâm Linh
+_ <randuin_omen>Khiên Băng Randuin
+_ <thornmail>Giáp Gai
+_ <adaptive_helm>Mũ Thích Nghi
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Chuẩn Xác
+. Ngọc Siêu Cấp 1: Khởi đầu với <lethal_tempo>Nhịp Độ Chết Người. Sau 1,5 giây sau khi gây sát thương lên tướng địch, bạn có thể nhận thêm từ 30-80% tốc độ đánh tùy theo cấp độ. Và nếu tấn cống một tướng, hiệu ứng này sẽ kéo dài lên đến 6 giây. Kỹ năng Vũ Điệu Thách Thức (W) gây ra sát thương chuẩn cũng kéo dài 6 giây. Với <lethal_tempo>Nhịp Độ Chết Người, tốc độ đánh cộng thêm từ điểm này sẽ giúp Irelia gây ra rất nhiều sát thương khi bật W.
+. Ngọc Siêu Cấp 2: <triumph> Đắc Thắng là một lựa chọn không thể hoàn hảo hơn với vị tướng có khả năng lăn cầu tuyết tuyệt vời như Irelia. Với lượng máu hồi thêm sau khi tham gia hạ gục tướng địch, Irelia hoàn toàn có thể rút lui an toàn sau một pha băng trụ, hoặc thậm chí có thể lật kèo trong một tình huống tưởng chừng như vô vọng.
+. Ngọc Siêu Cấp 3: <legend_alacrity> Huyền Thoại Tốc Độ Đánh là sự lựa chọn tốt nhất để kết hợp cùng <lethal_tempo>Nhịp Độ Chết Người.
+. Ngọc Siêu Cấp 4: <coup_de_grace> Nhát Chém Ân Huệ sẽ sự lựa chọn còn lại cực kỳ chuẩn xác. Chỉ cần một trang bị <>Tam Hợp Kiếm, những điểm hạ gục sẽ giúp Irelia trở nên đáng sợ hơn rất nhiều.
++ Nhánh Ngọc Phụ: Hệ Pháp Thuật
+. Ngọc Phụ 1: <scorch>Thiêu Rụi giúp bạn trao đổi chiêu thức khi đi đường một cách đầy hiệu quả.
+. Ngọc Phụ 2: <celerity>Mau Lẹ giúp bạn có thêm tốc độ di chuyển để đâm kiếm tiếp cận đối thủ. Ngoài ra <celerity>Mau Lẹ còn kết hợp rất tốt với nội tại Cuồng Bạo từ <trinity_force>Tam Hợp Kiếm.
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Irelia. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<teleport>Dịch Chuyển là phép bổ trợ cực kỳ hữu ích trong mùa giải này. Dịch chuyển cho phép bạn hỗ trợ đồng đội một cách nhanh chóng khi cần thiết hoặc quay trở lại đường cực kỳ nhanh chóng.

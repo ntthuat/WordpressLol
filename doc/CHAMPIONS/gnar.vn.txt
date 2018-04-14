@@ -1,0 +1,50 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_blade>Kiếm Doran
+_ <health_potion>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Khởi Đầu Nếu Tự Tin
+_ <long_sword>Kiếm Dài
+_ <health_potion{3}>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng Khi Đối Phương Có Nhiều AD:
+_ <the_black_cleaver>Rìu Đen
+_ <ninja_tabi>Giày Ninja
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <sunfire_cape>Giáp Lửa
+_ <thornmail>Giáp Gai
+_ <gargoyle_stoneplate>Thú Tượng Thạch Giáp
+
++ Trang Bị Cuối Cùng Khi Đối Phương Có Nhiều AP:
+_ <maw_of_malmortius>Chùy Gai Malmortius
+_ <mercury_treads>Giày Thủy Ngân
+_ <the_black_cleaver>Rìu Đen
+_ <spirit_visage>Giáp Tâm Linh
+_ <adaptive_helm>Mũ Thích Nghi
+_ <gargoyle_stoneplate>Thú Tượng Thạch Giáp
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Cảm Hứng
+. Ngọc Siêu Cấp 1: <glacial_augment>Nâng Cấp Băng Giá sẽ giúp bạn làm chậm kẻ địch bằng đòn đánh thường mà không cần phải lên búa băng. Thay vào đó hãy để dành tiền mua <randuin_omen>Khiên Băng Randuin và kích hoạt nó để làm giảm nhiệt những pha giao tranh nóng bỏng.
+. Ngọc Siêu Cấp 2: <perfect_timing>Thời Điểm Hoàn Hảo khi được kích hoạt đúng lúc sẽ giúp Gnar lật kèo trong những pha giao tranh ngặt nghèo, hoặc troll bất kỳ kẻ địch nào có ý định băng trụ hạ gục bạn. Ngoài ra <perfect_timing>Thời Điểm Hoàn Hảo còn giúp bạn được giảm giá khi lên <gargoyle_stoneplate>Thú Tượng Thạch Giáp, đầu tư vào vàng không bao giờ là lỗ cả.
+. Ngọc Siêu Cấp 3: <future_market>Thị Trường Tương Lai cho phép bạn vay nợ để mua trang bị sớm hơn. Bạn xứng đáng có được <the_black_cleaver>Rìu Đen ngay bây giờ, chứ không phải là một lát nữa.
+. Ngọc Siêu Cấp 4: <approach_velocity>Vận Tốc Tiếp Cận sẽ là ngọc siêu cấp cuối cùng để lấy thêm tốc độ di chuyển về hướng những kẻ địch bị bạn làm chậm. Ngọc này còn tốt hơn nữa khi bạn có thêm <celerity>Mau Lẹ và <scorch>Thiêu Rụi từ Hệ Pháp Thuật. Nó cho thêm bạn một chút sức mạnh công kích mỗi khi được tăng tốc với <approach_velocity>Vận Tốc Tiếp Cận hoặc W của Gnar.
++ Nhánh Ngọc Phụ: Hệ Áp Đảo
+. Ngọc Phụ 1: <scorch>Thiêu Rụi giúp bạn trao đổi chiêu thức khi đi đường một cách đầy hiệu quả.
+. Ngọc Phụ 2: <celerity>Mau Lẹ giúp bạn có thêm tốc độ di chuyển để tiếp cận mục tiêu.
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Gnar. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<teleport>Dịch Chuyển là phép bổ trợ bắt buộc dành cho Gnar vị trí đường trên.
+

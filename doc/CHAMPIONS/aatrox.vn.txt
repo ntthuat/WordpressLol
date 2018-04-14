@@ -1,0 +1,49 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_shield>Khiên Doran
+_ <health_potion>Bình Máu
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <mercury_treads>Giày Thủy Ngân
+_ <blade_of_the_ruined_king>Gươm Của Vua Vô Danh
+_ <guinsoo_rageblade>Cuồng Đao Guinsoo
+_ <the_black_cleaver>Rìu Đen
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <spirit_visage>Giáp Tâm Linh
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <randuin_omen>Khiên Băng Randuin
+_ <guardian_angel>Giáp Thiên Thần
+_ <sunfire_cape>Giáp Lửa
+_ <banshee_veil>Dây Chuyền Chữ Thập
+_ <frozen_mallet>Búa Băng
+_ <ravenous_hydra>Rìu Mãng Xà
+_ <youmuu_ghostblade>Kiếm Ma Youmuu
+_ <lord_dominik_regards>Nỏ Thần Dominik
+_ <the_bloodthirster>Huyết Kiếm
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Chuẩn Xác
+. Ngọc Siêu Cấp 1: Khởi đầu với <lethal_tempo>Nhịp Độ Chết Người. Sau 1,5 giây sau khi gây sát thương lên tướng địch, bạn có thể nhận thêm từ 30-80% tốc độ đánh tùy theo cấp độ. Và nếu tấn cống một tướng, hiệu ứng này sẽ kéo dài lên đến 6 giây. Chưa kể, <lethal_tempo>Nhịp Độ Chết Người còn cho phép bạn tạm thời vượt qua giới hạn tốc độ đánh cùng với tỉ lệ chí mạng cực lớn
+. Ngọc Siêu Cấp 2: <triumph>Đắc Thắng là một lựa chọn không thể hoàn hảo hơn cho vị trí này. Bản chất Aatrox là một vị tướng luôn phải lao vào, áp sát đối thủ cũng như tham gia các giao tranh lớn. <triumph>Đắc Thắng giúp Aatrox có thể tồn tại lâu dài cho những tình huống đó.
+. Ngọc Siêu Cấp 3: <legend_alacrity> Huyền Thoại Tốc Độ Đánh là sự lựa chọn tốt nhất để kết hợp cùng <lethal_tempo>Nhịp Độ Chết Người.
+. Ngọc Siêu Cấp 4: <last_stand> Giúp bạn gia tăng từ 5-11% tốc độ đánh mỗi khi lượng máu thấp hơ 60%.
++ Nhánh Ngọc Phụ: Hệ Áp Đảo
+. Ngọc Phụ 1: <conditioning>Kiểm Soát Điều Kiện kết hợp cực tốt với mọi chỉ số phòng ngự mà bạn có.
+. Ngọc Phụ 2: <overgrowth>
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Aatrox. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<teleport>Dịch Chuyển là phép bổ trợ bắt buộc dành cho Aatrox vị trí đường trên.
+
+

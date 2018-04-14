@@ -1,0 +1,77 @@
+https://na.leagueoflegends.com/en/game-info/items/
+https://lienminh.garena.vn/game-info/items
+https://lmht.kynanggame.com/project/bo-trang-bi/
+
++ Trang Bị Khởi Đầu:
+_ <doran_shield>Khiên Doran
+_ <health_potion>Bình Máu
+_ <corrupting_potion>Bình Thuốc Biến Dị
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+_ <doran_blade>Kiếm Doran
+_ <doran_ring>Nhẫn Doran
+_ <boots_of_speed>Giày Thường
+_ <spellthief_edge>Lưỡi Gươm Đoạt Thuật
+_ <total_biscuit_of_rejuvenation>Bánh Qui
+_ <refillable_potion>Thuốc Tái Sử Dụng
+_ <control_ward>Mắt Kiểm Soát
+_ <hunter_talisman>Bùa Thợ Săn
+_ <faerie_charm>Bùa Tiên
+
++ Trang Bị Cuối Cùng:
+_ <trinity_force>Tam Họp Kiếm
+_ <guardian_angel>Giáp Thiên Thần
+_ <sterak_gage>Móng Vuốt Sterak
+_ <titanic_hydra>Rìu Đại Mãng Xà
+_<phantom_dancer>Ma Vũ Song Kiếm
+_<frozen_mallet>Búa Băng
+_<infinity_edge>Vô Cực Kiếm
+_<blade_of_the_ruined_king>Gươm Của Vua Vô Danh
+_<ninja_tabi>Giày Ninja
+_<guardian_angel>Giáp Thiên Thần
+_ <the_black_cleaver>Rìu Đen
+_ <mortal_reminder>Lời Nhắc Tử Vong
+_ <mercurial_scimitar>Đao Thủy Ngân
+_ <lord_dominik_regards>Nỏ Thần Dominik
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <the_bloodthirster>Huyết Kiếm
+_ <maw_of_malmortius>Chùy Gai Malmortius
+_ <spirit_visage>Giáp Tâm Linh
+_ <randuin_omen>Khiên Băng Randuin
+_ <thornmail>Giáp Gai
+_ <adaptive_helm>Mũ Thích Nghi
+_ <gargoyle_stoneplate>Thú Tượng Thạch Giáp
+_ <mercury_treads>Giày Thủy Ngân
+_ <stalker_blade_warrior>Gươm Truy Tung  - Phù Phép Chiến Binh
+_ <locket_of_the_iron_solari>Dây Chuyền Iron Solari
+_ <skirmisher_sabre_cinderhulk>Dao Đụng Độ - Phù Phép Quỷ Lửa
+_ <sunfire_cape>Giáp Lửa
+_ <rod_of_ages>Trượng Trường Sinh
+_ <lich_bane>Song Kiếm Tai Ương
+_ <zhonya_hourglass>Đồng Hồ Cát
+_ <ardent_censer>Lư Hương Sôi
+_ <eye_of_the_watchers>Mắt Giám Sát
+_ <ionian_boots_of_lucidity>Giày Khai Sáng Ionia
+_ <redemption>Dây Chuyền Chuộc Tội
+_ <frozen_heart>Tim Băng
+_ <banshee_veil>Dây Chuyền Chữ Thập
+_ <ZzRot_Portal>Thông Đạo Zz'Rot
+_ <banner_of_command>Cờ Lệnh Hiệu Triệu
+_ <knight_vow>Lời Thề Hiệp Sĩ
+_ <iceborn_gauntlet>Găng Tay Băng Giá
+_ <sorcerer_shoes> Giày Phù Thủy
+_ <nashor_tooth>Năng Nashor
+_ <rabadon_deathcap>Mũ Phù Thủy
+_ <void_staff>Trượng Hư Vô
+_ <liandry_torment>Mặt Nạ Đọa Đầy Liandry
+_ <eye_of_ascension>Mắt Ốc Đảo
+_ <athene_unholy_grail>Cốc Quỷ
+_ <seraph_embrace>Quyền Trượng Đại Thiên Sứ
+_ <righteous_glory>Vinh Quang Chân Chính
+_ <ravenous_hydra>Rìu Mãng Xà
+_ <youmuu_ghostblade>Kiếm Ma Youmuu
+
+* Phép Bổ Trợ:
+<flash>Tốc Biến là lựa chọn tối cần thiết dành cho Gnar. <flash> Tốc Biến cho phép bạn né gank, đào tẩu qua tường hoặc tiếp cận mục tiêu một cách dễ dàng.
+<teleport>Dịch Chuyển là phép bổ trợ bắt buộc dành cho Gnar vị trí đường trên.
+<exhaust>Kiệt Sức giúp bạn trong các pha bảo vệ AD, cũng như làm suy yếu kẻ địch trong những pha rừng ra gank cực kỳ hiêu quả.
+

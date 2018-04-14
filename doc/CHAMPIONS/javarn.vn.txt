@@ -1,0 +1,46 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <hunter_machete>Rựa Thợ Săn
+_ <refillable_potion>Thuốc Tái Sử Dụng
+_ <warding_totem>Mắt Vật Tổ (Phụ kiện)
+
++ Trang Bị Cuối Cùng:
+_ <mercury_treads>Giày Thủy Ngân
+_ <skirmisher_sabre_cinderhulk>Dao Đụng Độ - Phù Phép Quỷ Lửa
+_ <dead_man_plate>Giáp Liệt Sĩ
+_ <the_black_cleaver>Rìu Đen
+_ <titanic_hydra>Rìu Đại Mãng Xà
+_ <guardian_angel>Giáp Thiên Thần
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+_ <stalker_blade_warrior>Gươm Truy Tung  - Phù Phép Chiến Binh
+_ <locket_of_the_iron_solari>Dây Chuyền Iron Solari
+_ <gargoyle_stoneplate>Thú Tượng Thạch Giáp
+_ <sunfire_cape>Giáp Lửa
+_ <randuin_omen>Khiên Băng Randuin
+_ <thornmail>Giáp Gai
+_ <spirit_visage>Giáp Tâm Linh
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Áp Đảo
+. Ngọc Siêu Cấp 1: <electrocute>Sốc Điện là lựa chọn tuyệt vời nhất ở đây. <electrocute> Sốc Điện cho phép bạn gây thêm một sát thương thích ứng cực lớn lên kẻ thù sau 3 đòn đánh hoặc kỹ năng duy nhất.
+. Ngọc Siêu Cấp 2: <sudden_impact>Tác Động Bất Chợt kết hợp cùng Giáng Long Kích thì kẻ thù sẽ bị trừ đi một lượng giáp rất đáng kể giúp cho sát thương từ ngọc <electrocute>Sốc Điện càng kinh khủng hơn. Đấy là chưa kể đến các trang bị Sát Lực hoặc Xuyên Giáp như <duskblade_of_draktharr>Dạ Kiếm và <the_black_cleaver>Rìu Đen đi kèm.
+. Ngọc Siêu Cấp 3: <eyeball_collection>Thu Thập Chiến Tích là lựa chọn tiếp theo dành cho Jarvan để tăng thêm một lượng sức mạnh công kích. Với kỹ năng Hoàng Kỳ Demacia, Jarvan cực kỳ dễ dàng kiếm được các điểm hỗ trợ để tăng điểm Nhãn Cầu.
+. Ngọc Siêu Cấp 4: <relentless_hunter>Thợ Săn Tàn Nhẫn là lựa chọn cuối cùng dành cho Ngọc Siêu Cấp, giúp cho Jarvan trở nên cực kỳ cơ động trong việc truy đuổi tướng địch.
++ Nhánh Ngọc Phụ: Hệ Áp Đảo
+. Ngọc Phụ 1: <triumph>Đắc Thắng là một lựa chọn không thể hoàn hảo hơn cho vị trí này. Bản chất Jarvan là một vị tướng luôn phải lao vào, áp sát đối thủ cũng như tham gia các giao tranh lớn. <triumph>Đắc Thắng giúp Jarvan có thể tồn tại lâu dài cho những tình huống đó.
+. Ngọc Phụ 2: <coup_de_grace>Nhát Chém Ân Huệ sẽ sự lựa chọn còn lại cực kỳ chuẩn xác. Với lượng sát thương khủng bạn sẽ khiến 1 hoặc nhiều đối thủ lên bảng đếm số rất dễ dàng. Chuẩn bị một lượng đồ và thu thập thêm những điểm hạ gục ngay thôi.
+
+* Phép Bổ Trợ:
+
+Tùy chọn 1:
+

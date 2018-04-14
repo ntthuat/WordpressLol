@@ -1,0 +1,42 @@
+Link:
+https://www.mobafire.com/league-of-legends/build/its-all-smoke-and-mirrors-best-leblanc-na-8-3-515152
+https://guidegame.vn/leblanc-guide-mua-8-ngoc-tai-to-hop-va-cach-choi-leblanc-duong-giua-dam-chat-ke-lua-dao.html
+ign.com
+gamek.com
+https://kiemtiencenter.com/lam-website-kiem-tien/
+
+prefer:
+
+* Trang Bị
++ Trang Bị Khởi Đầu:
+_ <doran_ring>Nhẫn Doran
+_ <health_potion{2}>Bình Máu
+
++ Trang Bị Khởi Đầu Để Né Gank:
+_ <boots_of_speed>Giày Thường
+_ <health_potion{4}>Bình Máu
+
++ Trang Bị Cuối Cùng:
+_ <mercury_treads>Giày Thủy Ngân
+_ <rod_of_ages>Trượng Trường Sinh
+_ <lich_bane>Song Kiếm Tai Ương
+_ <zhonya_hourglass>Đồng Hồ Cát
+_ <void_staff>Trượng Hư Vô
+_ <rabadon_deathcap>Mũ Phù Thủy
+
++ Trang Bị Phù Hợp Khác Có Thể Chọn Lựa:
+
+* Ngọc Tái Tổ Hợp:
++ Nhánh Ngọc Chính: Hệ Chuẩn Xác
+. Ngọc Siêu Cấp 1: <fleet_footwork>Bước Chân Thần Tốc cho bạn hồi máu và tốc độ di chuyển cộng thêm mỗi khi tấn công.
+. Ngọc Siêu Cấp 2: Kết hợp <fleet_footwork>Bước Chân Thần Tốc với <overheal>Hồi Máu Vượt Trội để trụ đường. Lấy lá chắn từ <overheal>Hồi Máu Vượt Trội khi tấn công lính, rồi bước trao đổi chiêu thức miễn phí với kẻ địch.
+. Ngọc Siêu Cấp 3: Chọn <legend_alacrity>Huyền Thoại Tốc Độ Đánh tăng tốc độ đánh cho bạn để kích hoạt nội tại nhanh hơn.
+. Ngọc Siêu Cấp 4: <coup_de_grace> Nhát Chém Ân Huệ sẽ sự lựa chọn còn lại cực kỳ chuẩn xác. Nó giúp bạn kết thúc kẻ địch và lên đường bước tiếp.
++ Nhánh Ngọc Phụ: Hệ Pháp Thuật
+. Ngọc Phụ 1: <the_ultimate_hat>Mũ Tối Thượng
+. Ngọc Phụ 2: <transcendence>Thăng Tiến Sức Mạnh
+
+* Phép Bổ Trợ:
+
+Tùy chọn 1:
+
